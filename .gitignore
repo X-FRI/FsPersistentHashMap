@@ -6,3 +6,5 @@ obj/
 *.etl
 *.log
 
+
+.fake
